@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Riddle356
-- 👀 Recently I’m interested in programming and now I want to deep in it. 
-- 🌱 I’m currently learning Python at "CS50's Introduction to Artificial Intelligence with Python" by Edx.
-- 💞️ If you want to see me as a part of your team, I will be sincerely glad to start exactly from the day you would write to me.
-- 📫 You can reach me on Telegram (@Mojo_Nojo) or Facebook.
-
-<!---
-Riddle356/Riddle356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+– 👋 Hey, I’m Vladislav Ostapenko. Currently, I’m on the lookout for new job opportunities.
+– 👀 Programming isn’t just a skill for me — it’s a way to navigate and optimize everyday challenges. I tend to approach problems through the lens of digital technology, always looking for efficient solutions.
+– 🌱 My GitHub is a collection of my work — nothing fancy, just practical and effective solutions.
+– 💞️ If you’re looking for someone like me on your team, I’d be happy to chat and see how we can collaborate.
+– 📫 You can reach me on Telegram: @v_ostapenkoo.
